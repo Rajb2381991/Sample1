@@ -1,0 +1,16 @@
+Git Branch :
+	    Firsty Git is a version control system to assures the sharing of source code among developers.
+	    Brach is a new feature of git which divides tha whole project into modules and Each developer
+            can create and merge the branch code.It helps to collaborate easily.Git is commonly divided into three branches.
+	    Master,Develop,Staging.
+            Master is the default branch when we create our new repository.
+
+
+Git Rebase :
+	   The idea which rewrites all history by creating new commits for each commit 
+	   in the original branch(master).Rebase provides the history in details by categoring commits
+ 	   And Rebase helps to remove conflicts between two commits.
+
+
+
+
