@@ -1,3 +1,3 @@
-Enter First Name -------
-Enter Last Name -------
-
+First Enter Last Name
+And
+Then First Name Please...It's required to verification of password.
