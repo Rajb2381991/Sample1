@@ -1,0 +1,41 @@
+6a9ece4 HEAD@{0}: commit (merge): Changed File Again
+e0f286e HEAD@{1}: commit: login file changed
+327b5a3 HEAD@{2}: checkout: moving from develop to master
+b8fa3b0 HEAD@{3}: commit: Added login.txt
+327b5a3 HEAD@{4}: checkout: moving from master to develop
+327b5a3 HEAD@{5}: merge develop: Fast-forward
+7f7a693 HEAD@{6}: checkout: moving from develop to master
+327b5a3 HEAD@{7}: commit: Again login.txt changed to see confliction
+7f7a693 HEAD@{8}: checkout: moving from develop to develop
+7f7a693 HEAD@{9}: merge master: Fast-forward
+54545ab HEAD@{10}: checkout: moving from master to develop
+7f7a693 HEAD@{11}: merge develop: Merge made by the 'recursive' strategy.
+aec23ea HEAD@{12}: checkout: moving from develop to master
+54545ab HEAD@{13}: checkout: moving from master to develop
+aec23ea HEAD@{14}: checkout: moving from new-feature to master
+aec23ea HEAD@{15}: checkout: moving from develop to new-feature
+54545ab HEAD@{16}: commit: Added File In develop branch for Confliction
+b688890 HEAD@{17}: checkout: moving from master to develop
+aec23ea HEAD@{18}: merge new-feature: Fast-forward
+3a70227 HEAD@{19}: checkout: moving from new-feature to master
+aec23ea HEAD@{20}: rebase -i (finish): returning to refs/heads/new-feature
+aec23ea HEAD@{21}: rebase -i (start): checkout master
+aec23ea HEAD@{22}: rebase -i (finish): returning to refs/heads/new-feature
+aec23ea HEAD@{23}: rebase -i (reword): This commit stmt changed for reword.
+f9d7815 HEAD@{24}: cherry-pick: fast-forward
+c976298 HEAD@{25}: rebase -i (start): checkout master
+f9d7815 HEAD@{26}: rebase -i (finish): returning to refs/heads/new-feature
+f9d7815 HEAD@{27}: rebase -i (reword): This commit stmt changed for reword.
+3c69952 HEAD@{28}: cherry-pick: fast-forward
+c976298 HEAD@{29}: rebase -i (start): checkout master
+3c69952 HEAD@{30}: rebase -i (finish): returning to refs/heads/new-feature
+3c69952 HEAD@{31}: rebase -i (start): checkout master
+3c69952 HEAD@{32}: rebase: aborting
+3c69952 HEAD@{33}: checkout: moving from new-feature to new-feature
+3c69952 HEAD@{34}: rebase -i (finish): returning to refs/heads/new-feature
+3c69952 HEAD@{35}: rebase -i (start): checkout master
+3c69952 HEAD@{36}: checkout: moving from master to new-feature
+3a70227 HEAD@{37}: checkout: moving from new-feature to master
+3c69952 HEAD@{38}: commit: Again Changed my_file2 For Rebase Interactive
+c976298 HEAD@{39}: commit: Start to Update For Rebase Interactive
+
